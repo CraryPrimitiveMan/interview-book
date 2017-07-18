@@ -7,11 +7,15 @@ A book for phper
 ## PHP 框架实践
 ## PHP 框架原理实现
 ## PHP 内核原理
+## JavaScript
 ## MySQL
 ## Redis
+## Lua
 ## Nginx
 ## Linux
+## Wireshark
 ## ElasticSearch
+## RabbitMQ
 ## Hadoop
 ## Spark
 ## Storm
