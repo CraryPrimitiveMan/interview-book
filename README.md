@@ -1,5 +1,5 @@
 # Interview Book
-A book for phper
+A book for interview
 
 ## PHP
 ### PHP 规范
@@ -8,7 +8,7 @@ A book for phper
 ### PHP 框架原理实现
 ### PHP 内核原理
 ### PHP-ML
-## 垃圾回收
+## [垃圾回收](./docs/三色标记法.md)
 ## JavaScript
 ## MySQL
 ## Redis
